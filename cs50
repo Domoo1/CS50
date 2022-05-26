@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+public static (void)
+{
+  printf("hello, world\n");
+}
